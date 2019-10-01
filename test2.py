@@ -1,0 +1,11 @@
+print("Лабораторна робота №1 Стрельцов Ілля КМ-93,завдання №2")
+print("Введіть 1 число")
+a = float(input())
+print("Введіть 2 число")
+b = float(input())
+print("Введыть 3 число")
+c = float(input())
+print("Введіть 4 число")
+d = float(input())
+print("Максимальне значення"max(min(a,b),min(c,d)))
+
